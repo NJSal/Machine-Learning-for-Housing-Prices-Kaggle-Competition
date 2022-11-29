@@ -1,6 +1,3 @@
-# CS301 Project Proposal
-## Group 14
-
 | Member           | Github Profile |
 |------------------|--------|
 | Christopher Pane | https://github.com/hahdookin |
@@ -8,9 +5,6 @@
 | Dylan Lederman   | https://github.com/DylanLederman |
 
 The Kaggle competition for this problem can be found [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).
-
-## About Augmenta Solutions
-We at Augmenta Solutions are dedicated to developing effective and powerful solutions for real world problems.
 
 ## The Problem
 The problem that we will be investigating is predicting the sales price of residential homes in Ames, Iowa based on their features including house type, construction material, age, condition, and location among many others. 
